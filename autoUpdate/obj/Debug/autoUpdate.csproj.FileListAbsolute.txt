@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\bin\Debug\autoUpdate.exe.config
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\bin\Debug\autoUpdate.exe
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\bin\Debug\autoUpdate.pdb
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\obj\Debug\autoUpdate.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\obj\Debug\autoUpdate.Form1.resources
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\obj\Debug\autoUpdate.Properties.Resources.resources
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\obj\Debug\autoUpdate.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\obj\Debug\autoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\obj\Debug\autoUpdate.exe
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\obj\Debug\autoUpdate.pdb
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\bin\Debug\ReaLTaiizor.dll
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\obj\Debug\autoUpdate.csproj.CopyComplete
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\bin\Debug\Siticone.UI.dll
+C:\Users\Acer\source\repos\autoUpdate\autoUpdate\obj\Debug\autoUpdate.csproj.SuggestedBindingRedirects.cache
